@@ -1,0 +1,8 @@
+name: VsamOskolok
+version: '${project.version}'
+main: org.vsamoskolok.VsamOskolok
+api-version: '1.16'
+commands:
+  oskolok:
+    description: Выдать Осколок BleedCube
+    permission: vsamoskolok.admin
